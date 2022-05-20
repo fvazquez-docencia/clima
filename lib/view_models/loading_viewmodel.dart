@@ -1,0 +1,5 @@
+class LoadingViewModel{
+  void localizeUserAndGetWeather(){
+
+  }
+}
